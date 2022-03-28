@@ -42,7 +42,7 @@ public class EventController {
     @GetMapping("level/{level}")
     public Event getEventByLevel(@PathVariable String level){return eventService.findEventByLevel(level);}
 
-    //get event by username -- in progress
+    //get event by username
     @CrossOrigin(origins = "http://localhost:3000")
     @GetMapping("username/{username}")
     public Event getEventByUser(@PathVariable String username){return eventService.findEventByUser(username);}

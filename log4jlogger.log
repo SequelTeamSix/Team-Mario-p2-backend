@@ -59,3 +59,12 @@
 2022-03-24 14:27:18 INFO  UserAspect:18 - User created / Command signature:  User teamup.p2backend.controller.UserController.postUser(User)
 2022-03-24 14:27:18 INFO  UserAspect:28 - Executing: Post(create) User / Command signature:  User teamup.p2backend.controller.UserController.postUser(User)
 2022-03-24 17:12:28 INFO  P2BackendApplication:12 - Initiating Backend Logs
+2022-03-25 09:02:37 INFO  P2BackendApplication:12 - Initiating Backend Logs
+2022-03-25 09:04:35 INFO  UserAspect:18 - User created / Command signature:  User teamup.p2backend.controller.UserController.postUser(User)
+2022-03-25 09:04:35 INFO  UserAspect:28 - Executing: Post(create) User / Command signature:  User teamup.p2backend.controller.UserController.postUser(User)
+2022-03-25 09:06:09 INFO  EventAspect:22 - Updated Event / Command signature:  void teamup.p2backend.controller.EventController.updateEvent(Event)
+2022-03-25 09:06:09 INFO  EventAspect:22 - Updated Event / Command signature:  void teamup.p2backend.service.EventService.updateEvent(Event)
+2022-03-25 09:06:09 INFO  EventAspect:22 - Updated Event / Command signature:  void teamup.p2backend.repository.EventRepository.updateEvent(String,String,String,String,String,String,int)
+2022-03-25 09:07:40 INFO  EventAspect:22 - Updated Event / Command signature:  void teamup.p2backend.controller.EventController.updateEvent(Event)
+2022-03-25 09:07:40 INFO  EventAspect:22 - Updated Event / Command signature:  void teamup.p2backend.service.EventService.updateEvent(Event)
+2022-03-25 09:07:40 INFO  EventAspect:22 - Updated Event / Command signature:  void teamup.p2backend.repository.EventRepository.updateEvent(String,String,String,String,String,String,int)
